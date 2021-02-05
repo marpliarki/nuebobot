@@ -1,0 +1,11 @@
+{
+    "reddit_info": {
+        "client_id": "",
+        "client_secret": "",
+        "user_agent": "",
+        "password": "",
+        "username": ""
+    },
+    "telegram_bot": "",
+    "imgurCLientID": ""
+}
